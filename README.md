@@ -1,5 +1,5 @@
 # README
 
-This is a cosi 166 database practice \n
-The file contains persons, events and registrations \n
-It is a many to many relationship
+##This is a database practice
+###The database contains persons, events and registrations
+and It is a many to many relationship
